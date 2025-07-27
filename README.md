@@ -6,7 +6,7 @@ The project was written during the **Garpix summer practice hackathon** to demon
 
 ---
 
-## Why this matters 🤔
+## Why this matters
 
 * Warehouse logistics and e‑commerce depend on **cargo space optimisation** – fewer trucks ⇒ lower costs.  
 * The official open‑source libraries usually stop at “fits / doesn’t fit”; here we go further and add **engineering rules** such as *“at least 60 % of the bottom face must be supported”*
