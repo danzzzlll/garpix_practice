@@ -1,8 +1,8 @@
-# practice‑hackathon‑algorithm
+# practice‑algorithm
 
 A **hands‑on 2‑D bin‑packing challenge**: given a set of rectangular boxes described in *JSON*, the script tries to arrange them as tightly as possible inside a single container while respecting real‑world stacking constraints (support area, gravity, no “floating” boxes, etc.).
 
-The project was written during the **Garpix summer practice hackathon** to demonstrate how an industrial optimisation task can be solved with everyday Python.
+The project was written during the **Garpix summer practice** to demonstrate how an industrial optimisation task can be solved with everyday Python.
 
 ---
 
